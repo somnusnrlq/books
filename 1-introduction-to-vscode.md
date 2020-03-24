@@ -2,7 +2,7 @@
 
 ## 1、vscode相关
 
-```js
+``` js
 // 将设置放入此文件中以覆盖默认设置
 {
     "typescript.check.tscVersion": false,
