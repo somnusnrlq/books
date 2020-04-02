@@ -2,7 +2,14 @@
 
 ## 1、vscode相关
 
-``` js
+VSCode需要安装所需要的插件
+```
+1. Prettier - Code formatter // 格式化插件
+2. vetur // vue支持插件
+
+```
+
+```js 
 // 将设置放入此文件中以覆盖默认设置
 {
     "typescript.check.tscVersion": false,
